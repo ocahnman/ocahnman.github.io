@@ -1,3 +1,14 @@
+h1 {
+     background-color: black;
+     color: white;
+     padding: 6px;
+     border-color: navy;
+     border-width: 2px;
+     border-style: solid;
+     text-align: center;
+     font-weight: 400;
+}
+
 a {
      background-color: white;
      display: block;
@@ -10,16 +21,7 @@ a {
      font-family: "Times New Roman";
      background-color: lightgray;
 }
- h1,{
-     background-color: black;
-     color: white;
-     padding: 6px;
-     border-color: navy;
-     border-width: 2px;
-     border-style: solid;
-     text-align: center;
-     font-weight: 400;
-}
+
  .links {
      text-align: center;
      padding: 12px;
